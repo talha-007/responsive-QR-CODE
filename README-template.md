@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://talha-007.github.io/responsive-QR-CODE/)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://github.com/talha-007/responsive-QR-CODE)
 
 ### Built with
 
